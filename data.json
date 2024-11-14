@@ -1,0 +1,258 @@
+[
+  {
+    "Province": "Cao Bằng",
+    "Number": "11"
+  },
+  {
+    "Province": "Lạng Sơn",
+    "Number": "12"
+  },
+  {
+    "Province": "Quảng Ninh",
+    "Number": "14"
+  },
+  {
+    "Province": "Hải Phòng",
+    "Number": ["15","16"]
+  },
+  {
+    "Province": "Thái Bình",
+    "Number": "17"
+  },
+  {
+    "Province": "Nam Định",
+    "Number": "18"
+  },
+  {
+    "Province": "Phú Thọ",
+    "Number": "19"
+  },
+  {
+    "Province": "Thái Nguyên",
+    "Number": "20"
+  },
+  {
+    "Province": "Yên Bái",
+    "Number": "21"
+  },
+  {
+    "Province": "Tuyên Quang",
+    "Number": "22"
+  },
+  {
+    "Province": "Hà Giang",
+    "Number": "23"
+  },
+  {
+    "Province": "Lào Cai",
+    "Number": "24"
+  },
+  {
+    "Province": "Lai Châu",
+    "Number": "25"
+  },
+  {
+    "Province": "Sơn La",
+    "Number": "26"
+  },
+  {
+    "Province": "Điện Biên",
+    "Number": "27"
+  },
+  {
+    "Province": "Hòa Bình",
+    "Number": "28"
+  },
+  {
+    "Province": "Hà Nội",
+    "Number": ["29","30","31","32","33","40"]
+  },
+  {
+    "Province": "Hải Dương",
+    "Number": "34"
+  },
+  {
+    "Province": "Ninh Bình",
+    "Number": "35"
+  },
+  {
+    "Province": "Thanh Hóa",
+    "Number": "36"
+  },
+  {
+    "Province": "Nghệ An",
+    "Number": "37"
+  },
+  {
+    "Province": "Hà Tĩnh",
+    "Number": "38"
+  },
+  {
+    "Province": "Đà Nẵng",
+    "Number": "43"
+  },
+  {
+    "Province": "Đắk Lắk",
+    "Number": "47"
+  },
+  {
+    "Province": "Đắk Nông",
+    "Number": "48"
+  },
+  {
+    "Province": "Lâm Đồng",
+    "Number": "49"
+  },
+  {
+    "Province": "TP HCM",
+    "Number": ["41","50","51","52","53","54","55","56","57","58","59"]
+  },
+  {
+    "Province": "Đồng Nai",
+    "Number": ["39","60"]
+  },
+  {
+    "Province": "Bình Dương",
+    "Number": "61"
+  },
+  {
+    "Province": "Long An",
+    "Number": "62"
+  },
+  {
+    "Province": "Tiền Giang",
+    "Number": "63"
+  },
+  {
+    "Province": "Vĩnh Long",
+    "Number": "64"
+  },
+  {
+    "Province": "Cần Thơ",
+    "Number": "65"
+  },
+  {
+    "Province": "Đồng Tháp",
+    "Number": "66"
+  },
+  {
+    "Province": "An Giang",
+    "Number": "67"
+  },
+  {
+    "Province": "Kiên Giang",
+    "Number": "68"
+  },
+  {
+    "Province": "Cà Mau",
+    "Number": "69"
+  },
+  {
+    "Province": "Tây Ninh",
+    "Number": "70"
+  },
+  {
+    "Province": "Bến Tre",
+    "Number": "71"
+  },
+  {
+    "Province": "Bà Rịa - Vũng Tàu",
+    "Number": "72"
+  },
+  {
+    "Province": "Quảng Bình",
+    "Number": "73"
+  },
+  {
+    "Province": "Quảng Trị",
+    "Number": "74"
+  },
+  {
+    "Province": "Thừa Thiên Huế",
+    "Number": "75"
+  },
+  {
+    "Province": "Quảng Ngãi",
+    "Number": "76"
+  },
+  {
+    "Province": "Bình Định",
+    "Number": "77"
+  },
+  {
+    "Province": "Phú Yên",
+    "Number": "78"
+  },
+  {
+    "Province": "Khánh Hòa",
+    "Number": "79"
+  },
+  {
+    "Province": "Cục CSGT đường bộ cấp",
+    "Number": "80"
+  },
+  {
+    "Province": "Gia Lai",
+    "Number": "81"
+  },
+  {
+    "Province": "Kon Tum",
+    "Number": "82"
+  },
+  {
+    "Province": "Sóc Trăng",
+    "Number": "83"
+  },
+  {
+    "Province": "Trà Vinh",
+    "Number": "84"
+  },
+  {
+    "Province": "Ninh Thuận",
+    "Number": "85"
+  },
+  {
+    "Province": "Bình Thuận",
+    "Number": "86"
+  },
+  {
+    "Province": "Vĩnh Phúc",
+    "Number": "88"
+  },
+  {
+    "Province": "Hưng Yên",
+    "Number": "89"
+  },
+  {
+    "Province": "Hà Nam",
+    "Number": "90"
+  },
+  {
+    "Province": "Quảng Nam",
+    "Number": "92"
+  },
+  {
+    "Province": "Bình Phước",
+    "Number": "93"
+  },
+  {
+    "Province": "Bạc Liêu",
+    "Number": "94"
+  },
+  {
+    "Province": "Hậu Giang",
+    "Number": "95"
+  },
+  {
+    "Province": "Bắc Cạn",
+    "Number": "97"
+  },
+  {
+    "Province": "Bắc Giang",
+    "Number": "98"
+  },
+  {
+    "Province": "Bắc Ninh",
+    "Number": "99"
+  }
+]
