@@ -10,15 +10,28 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Tra cứu đầu biển số xe</h1>
-        <label for="province">Tỉnh/ thành phố:</label>
-        <select id="province">
-            <option value="">Chọn tỉnh</option>
-        </select>
-        <label for="plateNumber">2 số đầu tiên của biển:</label>
-        <input type="text" id="plateNumber">
+    <div class="lookup-container">
+        <h1>Tra cứu biển số</h1>
+
+        <div class="lookup-mode">
+             <label><input type="radio" name="lookupType" value="province" checked> Theo tỉnh</label>
+             <label><input type="radio" name="lookupType" value="plate"> Theo biển số</label>
+        </div>
+
+         <div id="input-container"></div>
+
+        <hr>
+
+         <p><strong>Tên tỉnh hiện tại:</strong> <output id="output-province"></output></p>
+         <p><strong>Tên tỉnh cũ (nếu có):</strong> <output id="output-oldprovinces"></output></p>
+         <p><strong>Biển số xe:</strong> <output id="output-plates"></output></p>
     </div>
-    <script src="script.js"></script>
+
+    <div class="wallpaper">
+         <div class="green-blob"></div>
+         <div class="blue-blob"></div>
+         <div class="white-blob"></div>
+    </div>
+  <script src="script.js"></script>
 </body>
 </html>

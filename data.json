@@ -16,11 +16,13 @@
     "Number": ["15","16"]
   },
   {
-    "Province": "Thái Bình",
+    "Province": "Hưng Yên",
+    "OldProvinces": "Thái Bình",
     "Number": "17"
   },
   {
-    "Province": "Nam Định",
+    "Province": "Ninh Bình",
+    "OldProvinces": "Nam Định",
     "Number": "18"
   },
   {
@@ -32,7 +34,8 @@
     "Number": "20"
   },
   {
-    "Province": "Yên Bái",
+    "Province": "Lào Cai",
+    "OldProvinces": "Yên Bái",
     "Number": "21"
   },
   {
@@ -40,7 +43,8 @@
     "Number": "22"
   },
   {
-    "Province": "Hà Giang",
+    "Province": "Tuyên Quang",
+    "OldProvinces": "Hà Giang",
     "Number": "23"
   },
   {
@@ -60,7 +64,8 @@
     "Number": "27"
   },
   {
-    "Province": "Hòa Bình",
+    "Province": "Phú Thọ",
+    "OldProvinces": "Hòa Bình",
     "Number": "28"
   },
   {
@@ -68,7 +73,8 @@
     "Number": ["29","30","31","32","33","40"]
   },
   {
-    "Province": "Hải Dương",
+    "Province": "Hải Phòng",
+    "OldProvinces": "Hải Dương",
     "Number": "34"
   },
   {
@@ -96,7 +102,8 @@
     "Number": "47"
   },
   {
-    "Province": "Đắk Nông",
+    "Province": "Lâm Đồng",
+    "OldProvinces": "Đắk Nông",
     "Number": "48"
   },
   {
@@ -112,15 +119,18 @@
     "Number": ["39","60"]
   },
   {
-    "Province": "Bình Dương",
+    "Province": "TP HCM",
+    "OldProvinces": "Bình Dương",
     "Number": "61"
   },
   {
-    "Province": "Long An",
+    "Province": "Tây Ninh",
+    "OldProvinces": "Long An",
     "Number": "62"
   },
   {
-    "Province": "Tiền Giang",
+    "Province": "Đồng Tháp",
+    "OldProvinces": "Tiền Giang",
     "Number": "63"
   },
   {
@@ -140,7 +150,8 @@
     "Number": "67"
   },
   {
-    "Province": "Kiên Giang",
+    "Province": "An Giang",
+    "OldProvinces": "Kiên Giang",
     "Number": "68"
   },
   {
@@ -152,15 +163,18 @@
     "Number": "70"
   },
   {
-    "Province": "Bến Tre",
+    "Province": "Vĩnh Long",
+    "OldProvinces": "Bến Tre",
     "Number": "71"
   },
   {
-    "Province": "Bà Rịa - Vũng Tàu",
+    "Province": "TP HCM",
+    "OldProvinces": "Bà Rịa - Vũng Tàu",
     "Number": "72"
   },
   {
-    "Province": "Quảng Bình",
+    "Province": "Quảng Trị",
+    "OldProvinces": "Quảng Bình",
     "Number": "73"
   },
   {
@@ -176,11 +190,13 @@
     "Number": "76"
   },
   {
-    "Province": "Bình Định",
+    "Province": "Gia Lai",
+    "OldProvinces": "Bình Định",
     "Number": "77"
   },
   {
-    "Province": "Phú Yên",
+    "Province": "Đắk Lắk",
+    "OldProvinces": "Phú Yên",
     "Number": "78"
   },
   {
@@ -196,27 +212,33 @@
     "Number": "81"
   },
   {
-    "Province": "Kon Tum",
+    "Province": "Quảng Ngãi",
+    "OldProvinces": "Kon Tum",
     "Number": "82"
   },
   {
-    "Province": "Sóc Trăng",
+    "Province": "Cần Thơ",
+    "OldProvinces": "Sóc Trăng",
     "Number": "83"
   },
   {
-    "Province": "Trà Vinh",
+    "Province": "Vĩnh Long",
+    "OldProvinces": "Trà Vinh",
     "Number": "84"
   },
   {
-    "Province": "Ninh Thuận",
+    "Province": "Khánh Hòa",
+    "OldProvinces": "Ninh Thuận",
     "Number": "85"
   },
   {
-    "Province": "Bình Thuận",
+    "Province": "Lâm Đồng",
+    "OldProvinces": "Bình Thuận",
     "Number": "86"
   },
   {
-    "Province": "Vĩnh Phúc",
+    "Province": "Phú Thọ",
+    "OldProvinces": "Vĩnh Phúc",
     "Number": "88"
   },
   {
@@ -224,31 +246,38 @@
     "Number": "89"
   },
   {
-    "Province": "Hà Nam",
+    "Province": "Ninh Bình",
+    "OldProvinces": "Hà Nam",
     "Number": "90"
   },
   {
-    "Province": "Quảng Nam",
+    "Province": "Đà Nẵng",
+    "OldProvinces": "Quảng Nam",
     "Number": "92"
   },
   {
-    "Province": "Bình Phước",
+    "Province": "Đồng Nai",
+    "OldProvinces": "Bình Phước",
     "Number": "93"
   },
   {
-    "Province": "Bạc Liêu",
+    "Province": "Cà Mau",
+    "OldProvinces": "Bạc Liêu",
     "Number": "94"
   },
   {
-    "Province": "Hậu Giang",
+    "Province": "Cần Thơ",
+    "OldProvinces": "Hậu Giang",
     "Number": "95"
   },
   {
-    "Province": "Bắc Cạn",
+    "Province": "Thái Nguyên",
+    "OldProvinces": "Bắc Cạn",
     "Number": "97"
   },
   {
-    "Province": "Bắc Giang",
+    "Province": "Bắc Ninh",
+    "OldProvinces": "Bắc Giang",
     "Number": "98"
   },
   {
